@@ -13,6 +13,9 @@ the script was born for GCP used the gcloud cli, but can be easily adapted for a
 * Powershell v7+
 * PwshSpectreConsole
 
+### Usage
+
+In powershell teminal launch: gdns-ingress-ip-switch.ps1 and select GCP DNS Zone and namespace to get ip from ingress. Done.
 
 #
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
